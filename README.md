@@ -11,7 +11,7 @@
 **ATMOSPHERIC OS™** is a sovereign environmental audit system built for enforcement, not corporate reporting. It connects satellite telemetry, regulatory frameworks, and biophysical data to verify emissions and land‑use integrity in real time. The system automates anomaly detection, validates compliance through cryptographic audit trails, and aligns industrial activity with planetary boundaries. Atmospheric OS™ transforms environmental oversight into a living intelligence network — transparent, autonomous, and grounded in Country.
 
 > **Published:** June 2026  
-> **Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosures
+> **Compliance Alignment:** NGER Act 2007 | Safeguard Mechanism (Reformed) Rules 2015 | AASB S2 Climate Disclosure 
 
 ---
 ##  Executive Summary
