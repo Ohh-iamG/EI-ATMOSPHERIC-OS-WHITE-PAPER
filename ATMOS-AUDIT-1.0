@@ -1,0 +1,62 @@
+{
+  "payloadId": "CASE-2026-003",
+  "caseId": "CASE-2026-003",
+  "generatedAt": "2026-10-21T07:09:33.280Z",
+  "case_id": "CASE-2026-003",
+  "government_mode": true,
+  "overall_verdict": "COMPLIANT",
+  "model_version": "ATMOS-AUDIT-1.0",
+  "config_hash": "eeb0955a019b88cef11dcae98aa4ce112d7c0934bd8efca92830",
+  "entity_legal_name": "Eco Methane Ventures",
+  "entity_abn": "55 456 789 012",
+  "facility_name": "Gladstone Green Hub",
+  "facility_nger_id": "NGER-FAC-10029",
+  "reporting_year": 2026,
+  "scope1_declared": 34000,
+  "scope2_declared": 12000,
+  "scope3_declared": 18000,
+  "scope1_audited": 34000,
+  "scope2_audited": 12000,
+  "scope3_audited": 18000,
+  "accus_surrendered": 4500,
+  "accus_verified": 4500,
+  "accu_registry_id": "ACCU-REG-1029",
+  "findings": [],
+  "chain_of_custody": {
+    "doc_id": "DOC-COMP-101",
+    "hash_sha256": "7a35fe8efca11bdceec423d6a090b8efca11bfda239bcea9ff102b3db54ea8ee",
+    "uploaded_by": "regulator_portal_user_017",
+    "uploaded_at": "2026-06-19T06:20:00Z",
+    "version": 1,
+    "ledger_entry_id": "LEDGER-ATMOS-001004",
+    "status": "LOCKED"
+  },
+  "audit_logs": [
+    {
+      "timestamp": "2026-06-19T06:20:00Z",
+      "actor": "regulator_portal_user_017",
+      "action": "RUN_AUDIT",
+      "target": "CASE-2026-003",
+      "result": "SUCCESS",
+      "hash": "SHA256:88a3b5ce8efca11bd1bd4ca99387bbba6f920dae23ffbac3bc93db7a091e9882"
+    }
+  ],
+  "methodology": {
+    "pipeline": [
+      "INTAKE",
+      "EXTRACTION",
+      "FUSION",
+      "DRIFT",
+      "LEDGER"
+    ],
+    "notes": "Green greenhouse gases column profile inspection."
+  },
+  "certificate": {
+    "signatureBlock": "UNSIGNED",
+    "signedBy": null
+  },
+  "reportTier": "TIER_1_DRAFT",
+  "regulatoryStanding": false,
+  "watermark": "DRAFT - NO REGULATORY STANDING - NOT FOR SUBMISSION",
+  "unregisteredBypass": true
+}
